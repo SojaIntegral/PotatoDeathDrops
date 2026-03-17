@@ -2083,3 +2083,4 @@ Native library (linux-x86-64/libflite.so) not found in resource path (/home/sofi
 [17Mar2026 02:56:36.385] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Killed Dev
 [17Mar2026 02:56:41.752] [Render thread/DEBUG] [mezz.jei.common.config.file.ConfigSerializer/]: Skipping loading config file, it was just saved by us: /home/sofia/IdeaProjects/PotatoDeathDrops/run/config/jei/jei-mod-id-format.ini
 [17Mar2026 02:56:46.929] [JEI Deduplicating Run Executor 0/DEBUG] [mezz.jei.gui.config.LookupHistoryJsonConfig/]: Saved lookup history config to file: /home/sofia/IdeaProjects/PotatoDeathDrops/run/config/jei/world/local/New_World/lookupHistory.json
+[17Mar2026 03:01:16.468] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save New World
