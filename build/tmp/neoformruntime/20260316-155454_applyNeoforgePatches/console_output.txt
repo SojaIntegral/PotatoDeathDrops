@@ -1,0 +1,29 @@
+--------------------------------------------------------------------------------
+
+Command-Line:
+ - /home/sofia/.jdks/ms-21.0.10/bin/java
+ - -jar
+ - /home/sofia/.gradle/caches/modules-2/files-2.1/io.codechicken/DiffPatch/2.0.0.36/5b32f9baa0c0371c0dc80a3b88794960af0c6b44/DiffPatch-2.0.0.36-all.jar
+ - /home/sofia/.gradle/caches/neoformruntime/intermediate_results/patch_6ded14cf82fbc201a2584d834d712682eceb489e_output.zip
+ - /home/sofia/.gradle/caches/modules-2/files-2.1/net.neoforged/neoforge/21.1.220/70236185d516a3fe96680bbc85e517d61771012f/neoforge-21.1.220-userdev.jar
+ - --prefix
+ - patches/
+ - --patch
+ - --archive
+ - ZIP
+ - --output
+ - ./output.zip
+ - --log-level
+ - WARN
+ - --mode
+ - OFFSET
+ - --archive-rejects
+ - ZIP
+ - --reject
+ - ./outputRejects.zip
+ - --base-path-prefix
+ - a/
+ - --modified-path-prefix
+ - b/
+--------------------------------------------------------------------------------
+
