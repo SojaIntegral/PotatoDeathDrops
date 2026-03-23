@@ -13,7 +13,7 @@ public class Config {
     static {
         ModConfigSpec.Builder builder = new ModConfigSpec.Builder();
 
-        KEEP_ARMOR = builder.comment("Keep equipped armor items on death").define("Keep Armor", true);
+        KEEP_ARMOR = builder.comment("Keep equipped armor items on death").define("Keep Armor", false);
 
         KEEP = builder.comment("Items/tags to keep on death. Use 'modid:item' or '#modid:tag'").defineListAllowEmpty("Keep", List.of(""), obj -> obj instanceof String);
 

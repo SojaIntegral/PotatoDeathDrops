@@ -1,4 +1,4 @@
 #Keep equipped armor items on death
 "Keep Armor" = true
 #Items/tags to keep on death. Use 'modid:item' or '#modid:tag'
-Keep = ["#c:tools"]
+Keep = ["#c:tools", "potionrings2:potion_ring"]

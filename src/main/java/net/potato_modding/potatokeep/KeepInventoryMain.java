@@ -1,3 +1,9 @@
+/*
+ * MIT License
+ * Copyright (c) 2026 Sofia Bergi
+ * See the LICENSE file for more information.
+ */
+
 package net.potato_modding.potatokeep;
 
 import com.mojang.logging.LogUtils;

@@ -1,0 +1,7 @@
+[Effects]
+	#Creates new rings based on what effects are listed here
+	effects = ["minecraft:speed", "minecraft:strength", "minecraft:haste", "minecraft:jump_boost", "minecraft:regeneration", "minecraft:resistance", "minecraft:luck", "minecraft:health_boost"]
+	#The maximum level an effect can reach with stacking potion rings
+	level = 3
+	#Enable potion ring enchanted glow
+	glow = true
